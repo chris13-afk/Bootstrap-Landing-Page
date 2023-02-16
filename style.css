@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #242e4c;
+
+}
+
+.cover {
+    background: url('https://i.ibb.co/tLHLVJT/sean-oulashin-KMn4-VEe-EPR8-unsplash.jpg" alt="sean-oulashin-KMn4-VEe-EPR8-unsplash') center;
+background-size: cover;
+background-color: rgba(0,0,0,0.15);
+background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.bg-orange {
+    background-color: #ff6144!important;
+}
+
+.vh-80 {
+    min-height: 84vh;
+}
+
+.sign__container {
+    width: 60%;
+}
+
+@media (min-width: 1200px) {
+    .sign__container {
+        width: 350px;
+    }
+    .subtitle-mb{
+        margin-bottom: 5.5rem!important;
+    }
+}
+
